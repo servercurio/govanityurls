@@ -1,8 +1,7 @@
-host: rakyll.pizza
+host: code.hedera.com
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
-
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /node-mgmt-tools:
+    repo: https://github.com/swirlds/swirlds-docker
+    display: "https://github.com/swirlds/swirlds-docker https://github.com/swirlds/swirlds-docker/tree/main{/dir} https://github.com/swirlds/swirlds-docker/blob/main{/dir}/{file}#L{line}"
+    vcs: git
