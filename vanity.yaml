@@ -1,4 +1,4 @@
-host: code.hedera.com
+#host: golang.hedera.com
 
 paths:
   /node-mgmt-tools:
