@@ -2,6 +2,6 @@
 
 paths:
   /node-mgmt-tools:
-    repo: https://github.com/swirlds/swirlds-docker
-    display: "https://github.com/swirlds/swirlds-docker https://github.com/swirlds/swirlds-docker/tree/main{/dir} https://github.com/swirlds/swirlds-docker/blob/main{/dir}/{file}#L{line}"
+    repo: https://github.com/swirlds/swirlds-docker/src/go-tools
+    display: "https://github.com/swirlds/swirlds-docker/src/go-tools https://github.com/swirlds/swirlds-docker/tree/main/src/go-tools{/dir} https://github.com/swirlds/swirlds-docker/blob/main/src/go-tools{/dir}/{file}#L{line}"
     vcs: git
